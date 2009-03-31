@@ -84,4 +84,4 @@ class PoseurHTTP{
     }
     return $array;
   }
-
+}
